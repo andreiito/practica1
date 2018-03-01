@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Registro de Usuarios</title>
+		<link href="css/estilo_registro.css" type="text/css" rel="stylesheet">
 	</head>
 	<body>
 		<h1>Registro al Curso</h1>
@@ -16,6 +17,15 @@
 		<p>Correo</p><input type="text" name="correo"/><br/>
 		<button type="submit">Enviar</button>
 	</form>
+
+
+<div id="caja3">
+<div id="caja2">
+<div id="caja1">
+hola
+	</div>
+	</div>
+	</div>
 	</body>
 </html>
 	
