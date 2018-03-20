@@ -9,7 +9,7 @@
 		<p>Por favor ingrese sus datos en el siguiente formulario.</p>
 		<br/> <br/>
 		<h2>Registro</h2>
-	<form action="#" method="post">
+	<form action="alta_registro.php" method="post">
 		<p>Nombre</p><input type="text" name="nombre"/><br/>
 		<p>Apellido Paterno</p><input type="text" name="appat"/><br/>
 		<p>Apellido Materno</p><input type="text" name="apmat"/><br/>
