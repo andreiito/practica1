@@ -1,0 +1,2 @@
+<h2>Nuevo contenido</h2>
+<p id="p1">Con los mtodos AJAX de jQuery se puede solicitar texto, HTML, XML, JSON del servidor, usando tanto peticiones de tipo GET como POST</p>
